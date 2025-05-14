@@ -1,6 +1,6 @@
 # Python OOP and Pandas Projects
 
-This repository include Python projects and python practice for BIOL 668. Applying object-oriented programming (OOP) concepts and data analysis using Pandas,...
+This repository include Python projects and python practice for BIOL 668 course from SDSU. Include applying object-oriented programming (OOP) concepts and data analysis using Pandas,...
 
 ---
 
@@ -48,5 +48,6 @@ if __name__ == "__main__":
 ---
 # How to use 
 - to run python script, open terminal , cd to the folder that have the file and run :
-in bash, run:
-python filename.py or python NGUYEN_OOP_FinalProject_2023.py
+- in bash, run:
+python filename.py 
+python NGUYEN_OOP_FinalProject_2023.py
