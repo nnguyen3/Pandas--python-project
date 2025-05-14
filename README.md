@@ -61,5 +61,7 @@ if __name__ == "__main__": import doctest doctest.testmod(verbose=True)
 # How to use 
 - to run python script, open terminal , cd to the folder that have the file and run :
 - in bash, run:
+```
 python filename.py 
 python NGUYEN_OOP_FinalProject_2023.py
+```
